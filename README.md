@@ -1,6 +1,4 @@
-# Web3-Project-Building
-
-# Motoko Kullanıcı Kayıt Sistemi
+# Web3-Register-Project
 
 Bu proje, Motoko programlama dilini kullanılarak bir kullanıcı kayıt sistemi uygulamasını içerir. Temel işlevler şunlardır:
 
